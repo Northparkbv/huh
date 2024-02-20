@@ -1,0 +1,6 @@
+You tried to log in to this website! But failed. I’ll give you a hint, though:
+
+Username: footballer
+Password: letsplayfootball
+
+Now you pretty much know how to get in to this website. This is intended to prevent against spam bots! Remember to get your password right.
